@@ -1,0 +1,13 @@
+0 water dear01
+1 wild boar02
+2 squirrel03
+3 chipmunk04
+4 raccoon05
+5 black bear06
+6 roe deer07
+7 hare08
+8 weasel09
+9 heron10
+10 egret11
+11 dog12
+12 cat13
