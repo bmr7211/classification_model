@@ -1,3 +1,4 @@
+# tensorflow pillow numpy matplotlib 필수
 import tensorflow as tf
 import numpy as np
 from PIL import Image
